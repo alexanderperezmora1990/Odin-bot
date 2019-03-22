@@ -1,0 +1,19 @@
+{
+    "name": "odin",
+    "version": "1.0.0",
+    "description": "telegram bot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "alexanderperezmora1990@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "bitmex-realtime-api": "^0.4.0",
+        "googleapis": "^27.0.0",
+        "mongoose": "^5.3.6",
+        "node-emoji": "^1.8.1",
+        "node-telegram-bot-api": "^0.30.0"
+    },
+    "devDependencies": {}
+}
